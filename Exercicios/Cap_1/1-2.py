@@ -19,3 +19,4 @@ print(f'{quilometros} quilometros e igual a {calculo_milhas} milhas')
 
 # 3. Se você correr 10 quilômetros em 42 minutos e 42 segundos, qual é o seu passo médio (tempo por milha em minutos e segundos)? Qual é a sua velocidade média em milhas por hora?
 
+#test
