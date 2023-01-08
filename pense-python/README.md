@@ -1,2 +1,3 @@
-# Pense_Python_Pratica
+# Pense Python Pratica
+
 Estudos e exercicios baseados no livro livre Pense Python e2
