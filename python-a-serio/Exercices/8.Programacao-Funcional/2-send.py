@@ -40,3 +40,4 @@ try:
         result.append(s)
 except StopIteration:
     pass
+
